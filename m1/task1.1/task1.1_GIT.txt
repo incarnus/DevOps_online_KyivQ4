@@ -1,0 +1,20 @@
+admin@admin--- MINGW64 ~/Documents/GitHub/DevOps_online_KyivQ4/m1/task1.1 (main)
+$ git reflog
+b840ff7 (HEAD -> main, origin/main) HEAD@{0}: commit: some fixed in index.html
+0863e67 (origin/develop, develop) HEAD@{1}: merge develop: Fast-forward
+20343f4 HEAD@{2}: checkout: moving from develop to main
+0863e67 (origin/develop, develop) HEAD@{3}: commit (merge): merge develop and images and styles
+8131fde (origin/images, images) HEAD@{4}: merge images: Fast-forward
+deda5d6 HEAD@{5}: checkout: moving from styles to develop
+263169e (origin/styles, styles) HEAD@{6}: commit: add style to index.html
+440fdae HEAD@{7}: commit: add style
+deda5d6 HEAD@{8}: checkout: moving from develop to styles
+deda5d6 HEAD@{9}: checkout: moving from images to develop
+8131fde (origin/images, images) HEAD@{10}: commit: add images to index.html
+f5f1f32 HEAD@{11}: checkout: moving from develop to images
+deda5d6 HEAD@{12}: checkout: moving from images to develop
+f5f1f32 HEAD@{13}: commit: add images
+deda5d6 HEAD@{14}: checkout: moving from develop to images
+deda5d6 HEAD@{15}: commit: add index.html
+20343f4 HEAD@{16}: checkout: moving from main to develop
+20343f4 HEAD@{17}: commit (initial): add readme.txt
